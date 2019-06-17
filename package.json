@@ -1,0 +1,21 @@
+{
+  "name": "awspolly",
+  "version": "1.0.0",
+  "description": "",
+  "main": "test.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://poojashah29@bitbucket.org/poojashah29/awspolly.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "homepage": "https://bitbucket.org/poojashah29/awspolly#readme",
+  "dependencies": {
+    "aws-sdk": "^2.307.0",
+    "express": "^4.16.3",
+    "pollymolly": "^0.2.0"
+  }
+}
